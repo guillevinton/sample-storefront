@@ -22,5 +22,7 @@ To see a live example, visit http://resellers.github.io/sample-storefront/
 <form action="http://www.domainspricedright.com/domains/search.aspx?checkAvail=1&amp;prog_id=domainspricedright" method="post"><!-- enter your prog_id and domain -->
 ```
 3: Put the example `index.html` somewhere
+
 4: Style to taste (we won't judge)
+
 5: Bask in glory that your storefront is customized
